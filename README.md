@@ -1,8 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Full-Stack & AI-powered projects<br>👯 I’m looking to collaborate on GenAI, Full-Stack & Open Source projects<br>🤝 I’m looking for help with Advanced GenAI & AI Agents<br>🌱 I’m currently learning Generative AI, LLMs, RAG & AI Agents<br>💬 Ask me about C++, Python, React, Node.js, MongoDB & UI/UX<br>⚡ Fun fact I love turning ideas into real-world tech projects<br>
 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/mohit-yadav-75666223b) 
 
